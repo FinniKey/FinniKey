@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FinniKey
-- 👀 I’m interested in games, computer graphics, TV shows, and writing. I am a Victoria University of Wellington student. I live in Wellington, New Zealand.
-- 🌱 At university, I am learning image based graphics, databases, visual effects, and cybersecurity.
-- 💞️ I’m looking to collaborate on any beginner-level project that will help me learn more skills.
+- My name is Sam Dunnachie/FinniKey and I live in Christchurch, New Zealand.
+- I'm interested in computer graphics, webapps, reading anything I can get my hands on, and creating interactive fiction games.
+- I am currently developing BetterReads. It is an application that takes a Goodreads profile and returns reviewers that are similar in taste.
+- I am looking for a full-time job in the IT industry and so am happy to collaborate on projects involving tech I am not familiar with to expand my skillset.
 
 <!---
 FinniKey/FinniKey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
